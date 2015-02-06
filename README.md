@@ -1,6 +1,7 @@
 # JtClicker
 
-Generic Windows dialogue clicker
+Generic Windows dialogue clicker.
+
 
 Original Publication
 --------------------
